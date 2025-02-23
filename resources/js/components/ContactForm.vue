@@ -13,7 +13,7 @@
     - Street<br />
     - State<br />
     - Zip<br />
-    - Couyntry<br />
+    - Country<br />
     - Images (only jpg images allowed)<br />
     - Files (only pdf files allowed)
   </p>

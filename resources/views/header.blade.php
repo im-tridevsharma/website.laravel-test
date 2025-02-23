@@ -14,11 +14,10 @@
                     <a class="nav-link" href="{{ route('services') }}">Services</a>
                 </li>
                 <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown"
-                        aria-expanded="false">
+                    <button class="nav-link dropdown-toggle" id="navbarDropdown" data-bs-toggle="dropdown" aria-expanded="false">
                         More
-                    </a>
-                    <ul class="dropdown-menu">
+                    </button>
+                    <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                         <li><a class="dropdown-item" href="{{ route('about') }}">About</a></li>
                         <li><a class="dropdown-item" href="{{ route('contact') }}">Contact</a></li>
                     </ul>

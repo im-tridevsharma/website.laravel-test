@@ -4,7 +4,7 @@
 @section('content')
     <div class="container">
         <div class="row g-4">
-            <dvi class="col-12 col-lg-4">
+            <div class="col-12 col-lg-4">
                 <div class="card">
                     <img src="https://placehold.co/1200x400" class="card-img-top" alt="...">
                     <div class="card-body">
@@ -14,9 +14,9 @@
                         <a href="{{ route('home') }}" class="btn btn-primary">Go somewhere</a>
                     </div>
                 </div>
-            </dvi>
+            </div>
 
-            <dvi class="col-12 col-lg-4">
+            <div class="col-12 col-lg-4">
                 <div class="card">
                     <img src="https://placehold.co/1200x400" class="card-img-top" alt="...">
                     <div class="card-body">
@@ -26,9 +26,9 @@
                         <a href="{{ route('home') }}" class="btn btn-primary">Go somewhere</a>
                     </div>
                 </div>
-            </dvi>
+            </div>
 
-            <dvi class="col-12 col-lg-4">
+            <div class="col-12 col-lg-4">
                 <div class="card ms-n5 ms-lg-0">
                     <img src="https://placehold.co/1200x400" class="card-img-top" alt="...">
                     <div class="card-body">
@@ -38,9 +38,9 @@
                         <a href="{{ route('home') }}" class="btn btn-primary">Go somewhere</a>
                     </div>
                 </div>
-            </dvi>
+            </div>
 
-            <dvi class="col-12 col-lg-4">
+            <div class="col-12 col-lg-4">
                 <div class="card">
                     <img src="https://placehold.co/1200x400" class="card-img-top" alt="...">
                     <div class="card-body">
@@ -50,9 +50,9 @@
                         <a href="{{ route('home') }}" class="btn btn-primary">Go somewhere</a>
                     </div>
                 </div>
-            </dvi>
+            </div>
 
-            <dvi class="col-12 col-lg-4">
+            <div class="col-12 col-lg-4">
                 <div class="card">
                     <img src="https://placehold.co/1200x400" class="card-img-top" alt="...">
                     <div class="card-body">
@@ -62,9 +62,9 @@
                         <a href="{{ route('home') }}" class="btn btn-primary">Go somewhere</a>
                     </div>
                 </div>
-            </dvi>
+            </div>
 
-            <dvi class="col-12 col-lg-4">
+            <div class="col-12 col-lg-4">
                 <div class="card">
                     <img src="https://placehold.co/1200x400" class="card-img-top" alt="...">
                     <div class="card-body">
@@ -74,9 +74,9 @@
                         <a href="{{ route('home') }}" class="btn btn-primary">Go somewhere</a>
                     </div>
                 </div>
-            </dvi>
+            </div>
 
-            <dvi class="col-12 col-lg-4">
+            <div class="col-12 col-lg-4">
                 <div class="card">
                     <img src="https://placehold.co/1200x400" class="card-img-top" alt="...">
                     <div class="card-body">
@@ -86,9 +86,9 @@
                         <a href="{{ route('home') }}" class="btn btn-primary" data-bs-target="#exampleModal">Open Modal</a>
                     </div>
                 </div>
-            </dvi>
+            </div>
 
-            <dvi class="col-12 col-lg-4">
+            <div class="col-12 col-lg-4">
                 <div class="card">
                     <img src="https://placehold.co/1200x400" class="card-img-top" alt="...">
                     <div class="card-body">
@@ -98,9 +98,9 @@
                         <a href="{{ route('home') }}" class="btn btn-primary">Go somewhere</a>
                     </div>
                 </div>
-            </dvi>
+            </div>
 
-            <dvi class="col-12 col-lg-4">
+            <div class="col-12 col-lg-4">
                 <div class="card">
                     <img src="https://placehold.co/1200x400" class="card-img-top" alt="...">
                     <div class="card-body">
@@ -110,7 +110,7 @@
                         <a href="{{ route('home') }}" class="btn btn-primary">Go somewhere</a>
                     </div>
                 </div>
-            </dvi>
+            </div>
         </div>
     </div>
 @endsection

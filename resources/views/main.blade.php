@@ -11,7 +11,7 @@
 </head>
 
 <body>
-    <div id="app-container">
+    <div id="app">
         <div>
             @include('header')
             @yield('content')
